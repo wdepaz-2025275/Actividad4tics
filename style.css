@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #dbeafe;
+  text-align: center;
+}
+
+h1 {
+  color: #1e3a8a;
+}
+
+button {
+  padding: 8px 15px;
+  margin: 10px;
+  cursor: pointer;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #1d4ed8;
+}
+
+input {
+  padding: 8px;
+  border: 2px solid #2563eb;
+  border-radius: 5px;
+}
+
+#lista {
+  margin-top: 20px;
+}
+
+.tarjeta {
+  background-color: white;
+  width: 300px;
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid #93c5fd;
+  border-left: 6px solid #2563eb;
+  border-radius: 5px;
+}
+
+.tarjeta h3 {
+  color: #1e40af;
+}
+
+.tarjeta p {
+  color: #374151;
+}
+
+.tarjeta:hover {
+  background-color: #eff6ff;
+}
