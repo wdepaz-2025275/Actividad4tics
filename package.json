@@ -1,0 +1,20 @@
+{
+  "name": "Actividad4tics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.29.3",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "husky": "^9.1.7",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
